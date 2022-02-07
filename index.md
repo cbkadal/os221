@@ -1,7 +1,5 @@
 ---
 ---
-# {{ site.title }}
-
 ## By {{ site.author }}
 <br>
 [HOME](/) ---
