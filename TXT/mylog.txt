@@ -36,3 +36,10 @@ ZCZC W04  10 L03 GitHub related
 ZCZC W04  10 L04 GitHub Pages related
 ZCZC W04  11 L05 QUIZ
 ZCZC W04  60 L09 Weekly Assignments
+ZCZC W05  20 L00 General, etc.
+ZCZC W05  20 L01 SCELE/Discord related
+ZCZC W05 120 L02 ZOOM meetings related
+ZCZC W05  10 L03 GitHub related
+ZCZC W05  10 L04 GitHub Pages related
+ZCZC W05  11 L05 QUIZ
+ZCZC W05  60 L09 Weekly Assignments
