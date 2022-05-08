@@ -11,3 +11,5 @@ ZCZC W06 alibaba
 ZCZC W06 kutakada
 ZCZC W07 alibaba 
 ZCZC W07 kutakada
+ZCZC W08 alibaba 
+ZCZC W08 kutakada
